@@ -167,6 +167,5 @@ function Spinner(props) {
   return <div>LOADING...</div>;
 }
 
-const result = withData(UserList);
 
-export default result;
+export default UserList;
